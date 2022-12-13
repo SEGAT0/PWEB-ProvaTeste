@@ -1,0 +1,72 @@
+h2{
+    color:  rgb(213, 208, 208);
+    font-weight: 700;
+
+    font-size: 30px;
+
+    margin-left: 70px;
+}
+
+.data{
+    display: flex;
+    flex-direction: row;
+
+    padding: 2rem;
+}
+
+table{
+    color:  rgb(252, 252, 252);
+
+    background: #141414;
+    border-radius: 10px;
+
+    width: 60%;
+
+    margin-left: 30px;
+}
+
+.itens{
+    background: #3b3b3b;
+    border-radius: 8px;
+}
+
+td{
+    padding: 2rem;
+
+    font-size: 30px;
+    font-weight: 500;
+
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.count{
+    display: flex;
+    flex-direction: row;
+
+    padding: 0rem;
+    margin-left: 0px;
+}
+
+.count span{
+    font-size: 35px;
+    font-weight: 500;
+
+    color: rgb(213, 208, 208);
+    margin-left: 100px;
+}
+
+.count p{
+    font-size: 48px;
+    font-weight: 600;
+
+    margin-left: 10px;
+    color: rgb(250, 250, 250);
+}
+
+.svg{
+    display:flex;
+    flex-direction: column;
+
+    margin: auto;
+}
